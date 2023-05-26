@@ -1,0 +1,48 @@
+#header {
+    height : 100px;
+    background-color: azure;
+}
+    #header-layer1 {
+        height : inherit;
+        width : 25%;
+        float : left;
+        background-color: chartreuse;
+    }
+    #header-layer2 { 
+        height : inherit;
+        width : 50%;
+        float : left;
+        background-color: chocolate;
+    }
+    #header-layer3 {
+        height : inherit;
+        width : 25%;
+        float : left;
+        background-color: coral;
+    }
+#main {
+    height : 500px;
+    background-color: beige;
+}
+    #main-layer1 {
+        background-color: blue;
+        height: 100%;
+        width: 15%;
+        float : left;
+    }
+    #main-layer2 {
+        background-color: blueviolet;
+        height: 100%;
+        width : 65%;
+        float : left;
+    }
+    #main-layer3 {
+        background-color: brown;
+        height: 100%;
+        width : 20%;
+        float : left;
+    }
+#footer {
+    height : 100px;
+    background-color: bisque;
+}
